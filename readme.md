@@ -1,4 +1,4 @@
-Displacement Risk Index Readme
+# Displacement Risk Index Readme
 
 The scripts contained within this repository will allow you to create elements of the Displacement Risk Index. Scripts are located in the "Scripts" subfolder.
 
